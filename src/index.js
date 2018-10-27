@@ -18,7 +18,7 @@ function component() {
 }
 
 document.body.appendChild(component());
-
+/*
 let arr = [0, 123, 1010, 1025, 1026];
 
 
@@ -28,4 +28,4 @@ for (let j = 2; j <= 36; j++) {
 		console.log(arr[i] + ': ' + arr[i].toString(j));
 	}
 	console.log('********************')
-}
+}*/
